@@ -1,6 +1,6 @@
-# Python Tutorial - || Create a EMAIL Bomb/Bomber || Code Walk-through || Hacking/Info-Sec ||
+# Python3 Tutorial - || Create a EMAIL Bomb/Bomber || Code Walk-through || Hacking/Info-Sec ||
 
-*#python* *#python 3* *#email* *#bomb* *#bomber* *#code* *#walk-through* *#hacking* *#info-sec* *#security* *#mass* *#spam* *#create*
+*#python3* *#email* *#bomb* *#bomber* *#code* *#walk-through* *#hacking* *#info-sec* *#security* *#mass* *#spam* *#create*
 *#how* *#to* *#code* *#script* *#kiddie*
 
 
@@ -14,6 +14,15 @@
 **For python tutorials: https://bit.ly/2U58Lt9**
 
 **Python_AND_Hacking subreddit: https://bit.ly/2Uf3gbw**
+
+## Installation Section
+
+Instructions:
+```
+1. git clone https://github.com/ncorbuk/Python---Email-Bomber
+2. cd Python---Email-Bomber/
+3. python3 Email_Bomber.py 
+```
 
 ## Become a Patreon - support the channel
 *Become a Patreon and support this channel, so that it can keep creating great content in the future* **LINK: https://www.patreon.com/w3w3w3**
