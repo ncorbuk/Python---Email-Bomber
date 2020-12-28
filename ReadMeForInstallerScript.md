@@ -21,7 +21,8 @@ Instructions:
 ```
 1. git clone https://github.com/ncorbuk/Python---Email-Bomber
 2. cd Python---Email-Bomber/
-3. python3 Email_Bomber.py 
+3. chmod +x Installer.sh
+4. ./Installer.sh
 ```
 
 ## Become a Patreon - support the channel
