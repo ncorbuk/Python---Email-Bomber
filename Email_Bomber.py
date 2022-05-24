@@ -94,8 +94,7 @@ class Email_Bomber:
             self.subject = str(input(bcolors.GREEN + 'Enter subject <: '))
             self.message = str(input(bcolors.GREEN + 'Enter message <: '))
 
-            self.msg = '''From: %s\nTo: %s\nSubject %s\n%s\n
-            ''' % (self.fromAddr, self.target, self.subject, self.message)
+            self.msg = self.msg = "From: From Person from@fromdomain.com\nTo: To Person to@todomain.com\nSubject: SMTP e-Mail Test\nThis is a test e-mail message."
 
             self.s = smtplib.SMTP(self.server, self.port)
             self.s.ehlo()
